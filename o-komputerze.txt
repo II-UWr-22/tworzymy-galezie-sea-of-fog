@@ -1,1 +1,56 @@
 Linux kszymanski 6.0.8-arch1-1 #1 SMP PREEMPT_DYNAMIC Thu, 10 Nov 2022 21:14:24 +0000 x86_64 GNU/Linux
+MemTotal:       23814244 kB
+MemFree:        18861752 kB
+MemAvailable:   20790512 kB
+Buffers:          187168 kB
+Cached:          1985632 kB
+SwapCached:            0 kB
+Active:          1102184 kB
+Inactive:        2714704 kB
+Active(anon):       6912 kB
+Inactive(anon):  1640448 kB
+Active(file):    1095272 kB
+Inactive(file):  1074256 kB
+Unevictable:          84 kB
+Mlocked:              84 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:       1617660 kB
+Mapped:           756456 kB
+Shmem:             38400 kB
+KReclaimable:     124460 kB
+Slab:             229348 kB
+SReclaimable:     124460 kB
+SUnreclaim:       104888 kB
+KernelStack:       11952 kB
+PageTables:        24876 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    11907120 kB
+Committed_AS:    5834308 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       56688 kB
+VmallocChunk:          0 kB
+Percpu:            17024 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    714752 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:    174080 kB
+FilePmdMapped:    120832 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      927548 kB
+DirectMap2M:     9795584 kB
+DirectMap1G:    14680064 kB
